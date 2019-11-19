@@ -1,9 +1,7 @@
 ---
-permalink: /pages/test
-title: "for test"
+layout: archive
+title: "test"
+author_profile: true
 ---
 
-
-
-
-叶修竹，1986年生，硕士生导师，博士。
+for a test
